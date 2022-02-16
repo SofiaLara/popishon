@@ -1,7 +1,7 @@
 /* Generales */
 
 :root {
-  --color-primario: #ddc190;
+  --color-primario: #15957c;
 }
 
 body{
@@ -356,7 +356,7 @@ section.confirmar-asistencia .btn-alt{
 section.dresscode{
   text-align: center;
   padding: 70px 0 70px;
-  background-color:#96b184;
+  background-color:#ddc190;
 }
 
 section.dresscode h4 {
@@ -468,7 +468,7 @@ section.protocolo p{
 section.gracias{
   text-align: center;
   padding: 50px 0;
-  background-color: #96b184;
+  background-color: #ddc190;
 }
 
 section.gracias p{
